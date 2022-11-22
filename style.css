@@ -4,11 +4,16 @@ body {
 	font-family: 'Lora' serif;
 	font-size: 16px;
 	font-weight: lighter;
+	text-align: center;
 }
 
+#photopro{
+	border-radius: 50%;
+}
 
 h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
+	text-align: center;
 }
 
 h1 {
