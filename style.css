@@ -9,6 +9,29 @@ body {
 
 #photopro{
 	border-radius: 50%;
+	width: 130px;
+}
+
+.button-blue{
+	font-family: 'Lora', serif;
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: #4c67c1;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 16px;
+    padding: 0px 0px;
+    font-weight: bold;
+    height: 50px;
+    cursor: pointer;
+    line-height: 50px;
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+	margin-top: 10px;"
 }
 
 h1, h2, h3 {
